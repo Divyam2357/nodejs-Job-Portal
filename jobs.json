@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Tech Corp",
+    "employerId": "employer_object_id",
+    "description": "Develop and maintain software applications.",
+    "requirements": ["JavaScript", "Node.js"],
+    "location": "San Francisco",
+    "salary": { "min": 70000, "max": 120000, "currency": "USD" },
+    "status": "active"
+  }
+]

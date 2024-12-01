@@ -1,0 +1,20 @@
+[
+  {
+    "email": "jobseeker1@example.com",
+    "password": "hashed_password",
+    "role": "jobseeker",
+    "profile": {
+      "name": "John Doe",
+      "location": "New York",
+      "skills": ["JavaScript", "Node.js"],
+      "experience": [],
+      "resume": null
+    }
+  },
+  {
+    "email": "employer1@example.com",
+    "password": "hashed_password",
+    "role": "employer",
+    "profile": null
+  }
+]

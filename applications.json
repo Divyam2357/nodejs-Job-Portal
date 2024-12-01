@@ -1,0 +1,9 @@
+[
+  {
+    "jobId": "job_object_id",
+    "userId": "user_object_id",
+    "status": "pending",
+    "coverLetter": "I am a passionate developer...",
+    "appliedAt": "2024-12-01T10:00:00Z"
+  }
+]
